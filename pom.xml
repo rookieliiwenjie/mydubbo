@@ -12,6 +12,9 @@
         <module>example</module>
         <module>demo</module>
         <module>exampleconsumer</module>
+        <module>com.rookie.li.echo</module>
+        <module>xmldemo</module>
+        <module>privider</module>
     </modules>
 
     <properties>
