@@ -13,6 +13,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>xmlDemo</module>
+        <module>consumer-xml</module>
     </modules>
     <groupId>com.sample.echo</groupId>
     <version>1.0-SNAPSHOT</version>

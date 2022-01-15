@@ -1,4 +1,4 @@
-package com.consumer.client;
+package consumer.client;
 
 import com.api.EchoService;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
