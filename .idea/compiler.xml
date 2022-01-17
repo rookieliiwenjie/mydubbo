@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="privider" />
+        <module name="com-annotation-consumer-demo" />
+        <module name="com-annotation-privider-demo" />
         <module name="consumer-xml" />
       </profile>
     </annotationProcessing>
